@@ -53,6 +53,9 @@ The retail transaction dataset is used to build a probabilistic LTV model:
 
 The marketing dataset (who saw the ad, who converted) and the retail dataset (transaction history, LTV) do not share a common user ID. To connect them, an identity resolution simulation is used: each converted user is randomly assigned a retail customer profile. This mirrors the probabilistic matching that real companies perform using hashed emails or device fingerprinting. The bridge is validated using a KS test to confirm the LTV distribution is balanced across both groups after mapping.
 
+<img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/d22967a3-5b1e-40aa-8b22-2e1a195b91d8" />
+
+
 ---
 
 ## Key Results
