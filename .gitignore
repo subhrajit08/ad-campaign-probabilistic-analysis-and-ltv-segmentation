@@ -1,0 +1,10 @@
+data/marketing_data.csv
+data/online_retail_II.csv
+data/final_rfm_data.csv
+data/final_bridge_data.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
+myenv/
