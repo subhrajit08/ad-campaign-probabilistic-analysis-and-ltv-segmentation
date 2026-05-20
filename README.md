@@ -143,20 +143,9 @@ streamlit run app.py
 
 The dashboard will open in your browser at `http://localhost:8501`.
 
+
 <img width="1918" height="898" alt="image" src="https://github.com/user-attachments/assets/b285193d-b97c-493b-a3cf-cc810b20707c" />
 
-
----
-
-## Dashboard
-
-| Page | What it shows |
-|---|---|
-| Overview | Pipeline architecture and summary of key findings |
-| A/B Test Results | Conversion rate comparison, confidence interval chart, statistical test summary, lift by day of week |
-| LTV Analysis | CLV distribution, frequency vs spend scatter, top 15 customers by predicted value |
-| Customer Segments | Segment summary table, customer count and CLV by persona, RFM scatter, recommended actions |
-| Campaign ROI | Projected 90-day revenue by group, CLV breakdown by customer segment |
 
 ---
 
